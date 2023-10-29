@@ -1,0 +1,15 @@
+{
+  "name": "show-my-system",
+  "version": "0.0.1",
+  "description": "Native app to familiarize with electron that displays system info in the window.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "jclipchik@gmail.com (Jack Lipchik)",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^27.0.2"
+  }
+}
